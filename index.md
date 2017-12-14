@@ -1,4 +1,4 @@
-# Physical Oceanography Seminars
+# Physical Oceanography Seminar Schedule
 
 Date          |   Speaker                                                 |   Title
 --------------|-----------------------------------------------------------|-----------------------------------------------------------------------------------------
