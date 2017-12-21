@@ -4,7 +4,7 @@ Jan 1   |   Holiday                                                 |
 Jan 8   |                                                           |
 Jan 15  |                                                           |
 Jan 22  |   Yohei Kayukawa (National Metrology Institute of Japan)  |   Seawater density measurements
-Jan 29  |                                                           |
+Jan 29  |   Ben Scheifele                                           |
 Feb 5   |   Ocean Sciences Practice Talks                           |
 Feb 12  |   Holiday                                                 |
 Feb 19  |                                                           |
@@ -14,7 +14,7 @@ Mar 12  |                                                           |
 Mar 19  |                                                           |
 Mar 26  |                                                           |
 Apr 2   |   Holiday                                                 |
-Apr 9   |                                                           |
+Apr 9   |   Dan Robb                                                |
 Apr 16  |                                                           |
 Apr 23  |                                                           |
 Apr 30  |                                                           |
