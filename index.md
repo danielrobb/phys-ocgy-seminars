@@ -10,11 +10,11 @@ Feb 12  |   Holiday                                                 |
 Feb 19  |                                                           |
 Feb 26  |   Andrea Ribeiro (Macquarie University)                   |   Active remote sensing of water temperature using a LIDAR-compatible Raman Spectrometer
 Mar 5   |   Susan Allen                                             |
-Mar 12  |   Karina                                                  |
-Mar 19  |                                                           |
+Mar 12  |   Karina Ramos Musalem                                    |
+Mar 19  |   Sarah Rosengard                                         |
 Mar 26  |                                                           |
 Apr 2   |   Holiday                                                 |
-Apr 9   |   Dan Robb                                                |
+Apr 9   |                                                           |
 Apr 16  |                                                           |
 Apr 23  |                                                           |
 Apr 30  |                                                           |
@@ -35,21 +35,3 @@ Aug 6   |   Holiday                                                 |
 Aug 13  |                                                           |
 Aug 20  |                                                           |
 Aug 27  |                                                           |
-Sep 3   |   Holiday                                                 |
-Sep 10  |                                                           |
-Sep 17  |                                                           |
-Sep 24  |                                                           |
-Oct 1   |                                                           |
-Oct 8   |   Holiday                                                 |
-Oct 15  |                                                           |
-Oct 22  |                                                           |
-Oct 29  |                                                           |
-Nov 5   |                                                           |
-Nov 12  |   Holiday                                                 |
-Nov 19  |                                                           |
-Nov 26  |                                                           |
-Dec 3   |                                                           |
-Dec 10  |                                                           |
-Dec 17  |                                                           |
-Dec 24  |                                                           |
-Dec 31  |                                                           |
