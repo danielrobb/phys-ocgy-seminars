@@ -12,7 +12,7 @@ Feb 26  |   Andrea Ribeiro (Macquarie University)                   |   Active r
 Mar 5   |   Susan Allen                                             |
 Mar 12  |   Karina Ramos Musalem                                    |
 Mar 19  |   Sarah Rosengard                                         |
-Mar 26  |                                                           |
+Mar 26  |   Idalia Machuca                                          |
 Apr 2   |   Holiday                                                 |
 Apr 9   |                                                           |
 Apr 16  |                                                           |
