@@ -1,13 +1,13 @@
 Date    |   Speaker                                                 |   Title
 --------|-----------------------------------------------------------|-----------------------------------------------------------------------------------------
 Jan 1   |   Holiday                                                 |
-Jan 8   |                                                           |
-Jan 15  |                                                           |
+Jan 8   |   No seminar                                              |
+Jan 15  |   Introductions                                           |
 Jan 22  |   Yohei Kayukawa (National Metrology Institute of Japan)  |   Seawater density measurements
 Jan 29  |   Ben Scheifele                                           |
 Feb 5   |   Ocean Sciences Practice Talks                           |
 Feb 12  |   Holiday                                                 |
-Feb 19  |   Sam Stevens                                             |
+Feb 19  |   Reading Break                                           |
 Feb 26  |   Andrea Ribeiro (Macquarie University)                   |   Active remote sensing of water temperature using a LIDAR-compatible Raman Spectrometer
 Mar 5   |   Susan Allen                                             |
 Mar 12  |   Karina Ramos Musalem                                    |
