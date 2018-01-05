@@ -15,7 +15,7 @@ Mar 19  |   Sarah Rosengard                                         |
 Mar 26  |   Idalia Machuca                                          |
 Apr 2   |   Holiday                                                 |
 Apr 9   |                                                           |
-Apr 16  |                                                           |
+Apr 16  |   Vicky Do and Erin Wetter                                |
 Apr 23  |                                                           |
 Apr 30  |                                                           |
 May 7   |                                                           |
