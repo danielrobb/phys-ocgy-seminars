@@ -4,7 +4,7 @@ Jan 1   |   Holiday                                                 |
 Jan 8   |   No seminar                                              |
 Jan 15  |   Introductions                                           |
 Jan 22  |   Yohei Kayukawa (National Metrology Institute of Japan)  |   Seawater density measurements
-Jan 29  |   Ben Scheifele                                           |
+Jan 29  |   Ben Scheifele                                           |   Comparing Turbulence Observations in the Beaufort Sea
 Feb 5   |   Ocean Sciences Practice Talks                           |
 Feb 12  |   Holiday                                                 |
 Feb 19  |   Reading Break                                           |
