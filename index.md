@@ -9,7 +9,7 @@ Feb 5   |   Ocean Sciences Practice Talks                           |
 Feb 12  |   Holiday                                                 |
 Feb 19  |   Reading Break                                           |
 Feb 26  |   Andrea Ribeiro (Macquarie University)                   |   Active remote sensing of water temperature using a LIDAR-compatible Raman Spectrometer
-Mar 5   |   Susan Allen                                             |
+Mar 5   |   Cedric Chavanne                                         |
 Mar 12  |   Karina Ramos Musalem                                    |
 Mar 19  |   Sarah Rosengard                                         |
 Mar 26  |   Idalia Machuca                                          |
@@ -17,7 +17,7 @@ Apr 2   |   Holiday                                                 |
 Apr 9   |   Birgit Rogalla                                          |
 Apr 16  |   Vicky Do and Erin Wetter                                |
 Apr 23  |   Elise Olson                                             |
-Apr 30  |                                                           |
+Apr 30  |   Susan Allen                                             |
 May 7   |   Boris Espinasse                                         |
 May 14  |                                                           |
 May 21  |   Holiday                                                 |
