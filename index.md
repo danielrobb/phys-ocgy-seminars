@@ -1,5 +1,5 @@
 Date    |   Speaker                                                 |   Title                                                                                   |   Room
---------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------
+--------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------|------------
 Jan 1   |   Holiday                                                 |                                                                                           |
 Jan 8   |   No seminar                                              |                                                                                           |
 Jan 15  |   Introductions                                           |                                                                                           |   ESB 5106
@@ -14,7 +14,7 @@ Mar 12  |   Karina Ramos Musalem                                    |           
 Mar 19  |   Sarah Rosengard                                         |                                                                                           |   ESB 5106
 Mar 26  |   Idalia Machuca                                          |                                                                                           |   ESB 5106
 Apr 2   |   Holiday                                                 |                                                                                           |
-Apr 9   |   Birgit Rogalla                                          |                                                                                           |
+Apr 9   |   Birgit Rogalla                                          |                                                                                           |   ESB 5108
 Apr 16  |   Vicky Do and Erin Wetter                                |                                                                                           |   ESB 5106
 Apr 23  |   Elise Olson                                             |                                                                                           |   ESB 5106
 Apr 30  |   Susan Allen                                             |                                                                                           |   ESB 5106
