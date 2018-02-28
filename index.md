@@ -10,9 +10,9 @@ Feb 12  |   Holiday                                                 |           
 Feb 19  |   Reading Break                                           |                                                                                           |
 Feb 26  |   Andrea Ribeiro (Macquarie University)                   |   Active remote sensing of water temperature using a LIDAR-compatible Raman Spectrometer  |   ESB 5106
 Mar 5   |   Cedric Chavanne                                         |                                                                                           |   FNH 30
-Mar 12  |   Karina Ramos Musalem                                    |                                                                                           |   ESB 5106
+Mar 12  |   Idalia Machuca                                          |                                                                                           |   ESB 5106
 Mar 19  |   Sarah Rosengard                                         |                                                                                           |   ESB 5106
-Mar 26  |   Idalia Machuca                                          |                                                                                           |   ESB 5106
+Mar 26  |   Karina Ramos Musalem                                    |                                                                                           |   ESB 5106
 Apr 2   |   Holiday                                                 |                                                                                           |
 Apr 9   |   Birgit Rogalla                                          |                                                                                           |   ESB 5108
 Apr 16  |   Vicky Do and Erin Wetter                                |                                                                                           |   ESB 5106
